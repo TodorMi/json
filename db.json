@@ -1,4 +1,4 @@
-{
+[
   {
     "authorId": 1,
     "author": "Pesho",
@@ -13,4 +13,4 @@
     "questions": ["asdasadsadsdas", "adsasvbbaasdad", "asnssddasdas", "asdasdasdasdasdasd"],
     "timesCompleted": 122
   }
-}
+]
