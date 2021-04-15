@@ -24,6 +24,6 @@
         { id: 3, question: "tel", rightAnswer: "asd", type: "input" },
       ],
     },
-  ];
+  ]
 }
 
