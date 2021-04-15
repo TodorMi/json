@@ -1,29 +1,28 @@
 {
-   "tests" : [
-  {
-      testId: 1,
-      authorId: 2,
-      authorName: "Rhotmans Lseries",
-      title: "Английски",
-      timesCompleted: 3,
-      questions: [
-        { id: 1, question: "asd", rightAnswer: "asd", type: "input" },
-        { id: 2, question: "brb", rightAnswer: "brb", type: "input" },
-        { id: 3, question: "tel", rightAnswer: "asd", type: "input" },
-      ],
+  "tests": [
+    {
+      "testId": 1,
+      "authorId": 2,
+      "authorName": "Rhotmans Lseries",
+      "title": "Английски",
+      "timesCompleted": 3,
+      "questions": [
+        { "id": 1, "question": "asd", "rightAnswer": "asd", "type": "input" },
+        { "id": 2, "question": "brb", "rightAnswer": "brb", "type": "input" },
+        { "id": 3, "question": "tel", "rightAnswer": "asd", "type": "input" }
+      ]
     },
     {
-      testId: 2,
-      authorId: 3,
-      authorName: "George Coffee",
-      title: "Български",
-      timesCompleted: 2,
-      questions: [
-        { id: 1, question: "asd", rightAnswer: "asd", type: "input" },
-        { id: 2, question: "brb", rightAnswer: "brb", type: "input" },
-        { id: 3, question: "tel", rightAnswer: "asd", type: "input" },
-      ],
-    },
+      "testId": 2,
+      "authorId": 3,
+      "authorName": "George Coffee",
+      "title": "Български",
+      "timesCompleted": 2,
+      "questions": [
+        { "id": 1, "question": "asd", "rightAnswer": "asd", "type": "input" },
+        { "id": 2, "question": "brb", "rightAnswer": "brb", "type": "input" },
+        { "id": 3, "question": "tel", "rightAnswer": "asd", "type": "input" }
+      ]
+    }
   ]
 }
-
