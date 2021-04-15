@@ -2,7 +2,7 @@
   "tests": [
     {
       "testId": 1,
-      "authorId": 2,
+      "authorId": 1,
       "authorName": "Rhotmans Lseries",
       "title": "Английски",
       "timesCompleted": 3,
@@ -14,7 +14,7 @@
     },
     {
       "testId": 2,
-      "authorId": 3,
+      "authorId": 2,
       "authorName": "George Coffee",
       "title": "Български",
       "timesCompleted": 2,
@@ -26,7 +26,7 @@
     },
     {
       "testId": 3,
-      "authorId": 4,
+      "authorId": 3,
       "authorName": "Philly Coffee",
       "title": "Френски",
       "timesCompleted": 2,
